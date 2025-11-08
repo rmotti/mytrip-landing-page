@@ -5,6 +5,7 @@ import WhyMyTrip from "@/components/landing/WhyMyTrip";
 import Testimonials from "@/components/landing/Testimonials";
 import FinalCTA from "@/components/landing/FinalCTA";
 import Footer from "@/components/landing/Footer";
+import ContactForm from "@/components/landing/ContactForm";
 
 const Index = () => {
   return (
@@ -14,6 +15,7 @@ const Index = () => {
       <Features />
       <WhyMyTrip />
       <Testimonials />
+      <ContactForm />
       <FinalCTA />
       <Footer />
     </div>
