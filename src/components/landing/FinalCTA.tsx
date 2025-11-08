@@ -31,7 +31,7 @@ const FinalCTA = () => {
               className="gradient-hero text-primary-foreground shadow-large hover:shadow-large hover:scale-105 transition-smooth text-base sm:text-lg px-10 py-7"
             >
               <a
-                href="https://mytrip-frontend.vercel.app/register"
+                href="https://my-trip-frontend.vercel.app/#/register"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2"
@@ -48,7 +48,7 @@ const FinalCTA = () => {
               className="border-2 border-primary text-primary hover:bg-primary hover:text-primary-foreground transition-smooth text-base sm:text-lg px-10 py-7"
             >
               <a
-                href="https://mytrip-frontend.vercel.app/login"
+                href="https://my-trip-frontend.vercel.app/#/login"
                 target="_blank"
                 rel="noopener noreferrer"
               >

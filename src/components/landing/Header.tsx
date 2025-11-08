@@ -68,7 +68,7 @@ const Header = () => {
               className="text-foreground hover:text-primary"
             >
               <a
-                href="https://mytrip-frontend.vercel.app/login"
+                href="https://my-trip-frontend.vercel.app/#/login"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -81,7 +81,7 @@ const Header = () => {
               className="gradient-hero text-primary-foreground shadow-medium hover:shadow-large transition-smooth"
             >
               <a
-                href="https://mytrip-frontend.vercel.app/register"
+                href="https://my-trip-frontend.vercel.app/#/register"
                 target="_blank"
                 rel="noopener noreferrer"
               >
